@@ -1,8 +1,19 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 # DocGPT
 
-Access the website [here](https://docgpt-ai.streamlit.app/).
+Access the website [here](https://genai-medical-chatbot.streamlit.app/).
 
-DocGPT is an intelligent chatbot designed to help patients identify the root cause of their health issues and provide appropriate advice, targeting individuals with limited access to healthcare services, including the elderly. It addresses the challenge of timely and reliable healthcare access in underserved communities by using multimodal input such as text descriptions of symptoms and optional images or videos of affected areas. DocGPT offers informal diagnoses, recommendations for medications or home remedies, and emotional reassurance for mental health concerns.
+DocGPT is an intelligent chatbot designed to help users identify the root cause of their health issues and provide appropriate advice.
+Runs on GPT-4o mini
+Uses Google Maps' API to show nearest clinics
 
-This project is particularly beneficial for those in remote or economically disadvantaged areas where immediate medical attention is scarce, as well as the elderly, who often face mobility challenges and multiple co-morbidities. By reducing the strain on overloaded public healthcare systems, DocGPT aims to improve health outcomes and provide much-needed support for mental health issues, often neglected due to stigma and a shortage of mental health professionals.
+## Features
 
+- Provides advice based on patient symptoms
+- Speech to text input
+- Accepts images as input as well
+
+## Usage
+Just type a prompt, speak, or upload an image!
